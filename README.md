@@ -5,7 +5,7 @@ Introducing HashSmasher, the ultimate solution for all your password hashing and
 
 Key Features and Benefits:
 
-1) Effortless Password Hashing: HashSmasher simplifies the entire password hashing process. With just a few clicks, you can select from three powerful algorithms - MD5, SHA-512, and BCrypt - and swiftly generate secure password hashes. Hash a single password or effortlessly process an extensive list of passwords from a text (.txt) file.
+1)Effortless Password Hashing: HashSmasher simplifies the entire password hashing process. With just a few clicks, you can select from three powerful algorithms - MD5, SHA-512, and BCrypt - and swiftly generate secure password hashes. Hash a single password or effortlessly process an extensive list of passwords from a text (.txt) file.
 
 2)Intelligent Hash Cracking: Lost a password? Don't fret! HashSmasher's advanced hash cracking capabilities are here to help. Simply provide the target hash and a list of potential passwords, and let HashSmasher's intelligent algorithms work their magic. HashSmasher tirelessly searches for matches, ensuring speedy results for your peace of mind.
 
