@@ -36,18 +36,18 @@ Step-by-Step Usage Guide:
 
 Why Choose HashSmasher:
 
-    HashSmasher is an indispensable tool for cybersecurity professionals, developers, and anyone seeking top-notch password management
-    and hash recovery capabilities. Its user-friendly interface, robust features, and compatibility with text files ensure a seamless experience for
-    all your password-related tasks.
+HashSmasher is an indispensable tool for cybersecurity professionals, developers, and anyone seeking top-notch password management
+and hash recovery capabilities. Its user-friendly interface, robust features, and compatibility with text files ensure a seamless experience for
+all your password-related tasks.
 
 
 Stay Responsible:
 
-    With great power comes great responsibility. Always ensure you have the proper authorization to use HashSmasher for hash cracking or
-    password analysis. This tool should be used for educational purposes, security assessment, or to evaluate your own systems' vulnerabilities.
-    As a responsible user, remember to adhere to ethical and legal standards when using HashSmasher. Protect user privacy and ensure
-    compliance with all relevant regulations. Embrace the power of this tool to bolster security and stay ahead in the ever-evolving world of
-    cybersecurity.
+With great power comes great responsibility. Always ensure you have the proper authorization to use HashSmasher for hash cracking or
+password analysis. This tool should be used for educational purposes, security assessment, or to evaluate your own systems' vulnerabilities.
+As a responsible user, remember to adhere to ethical and legal standards when using HashSmasher. Protect user privacy and ensure
+compliance with all relevant regulations. Embrace the power of this tool to bolster security and stay ahead in the ever-evolving world of
+cybersecurity.
 
 
 Feel free to explore and contribute to the HashSmasher project, and happy hashing and cracking!!!
