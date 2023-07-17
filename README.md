@@ -31,8 +31,15 @@ Why Choose HashSmasher:
 
 &emsp;&emsp;HashSmasher is an indispensable tool for cybersecurity professionals, developers, and anyone seeking top-notch password management<br/>&emsp;&emsp;and hash recovery capabilities. Its user-friendly interface, robust features, and compatibility with text files ensure a seamless experience for<br/>&emsp;&emsp;all your password-related tasks.
 
+
+
 <br/>
-Feel free to explore and contribute to the HashSmasher project, and happy hashing and cracking!
+Stay Responsible:<br/>
+<br/>
+&emsp;&emsp;With great power comes great responsibility. Always ensure you have the proper authorization to use HashSmasher for hash cracking or<br/>&emsp;&emsp;password analysis. This tool should be used for educational purposes, security assessment, or to evaluate your own systems' vulnerabilities.<br/>&emsp;&emsp;As a responsible user, remember to adhere to ethical and legal standards when using HashSmasher. Protect user privacy and ensure<br/>&emsp;&emsp;compliance with all relevant regulations. Embrace the power of this tool to bolster security and stay ahead in the ever-evolving world of<br/>&emsp;&emsp;cybersecurity.<br/><br/>
+
+<br/>
+Feel free to explore and contribute to the HashSmasher project, and happy hashing and cracking!!!<br/>
 
 <br/><br/>
 Note: Due to character limitations, the full explanation of the code couldn't be provided here. Please refer to the code documentation and comments for a detailed explanation of each function and its usage.
