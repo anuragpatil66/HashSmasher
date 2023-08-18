@@ -3,7 +3,7 @@
 
 Introducing HashSmasher, the ultimate solution for all your password hashing and hash cracking endeavors. Whether you need to secure passwords or recover lost ones, HashSmasher's versatile support for multiple hashing algorithms, including MD5, SHA-512, and BCrypt, will meet all your cryptographic needs with unparalleled ease and efficiency.
 
-Key Features and Benefits:
+**Key Features and Benefits:**
 
     1) Effortless Password Hashing: HashSmasher simplifies the entire password hashing process. With just a few clicks, you can select from
        three powerful algorithms - MD5, SHA-512, and BCrypt - and swiftly generate secure password hashes. Hash a single password or
@@ -17,7 +17,7 @@ Key Features and Benefits:
        and target hashes through text files, making it a breeze to handle vast datasets. You can conveniently save the results, including both
        cracked passwords and hashed passwords, to text files for future reference and analysis.
 
-Step-by-Step Usage Guide:
+**Step-by-Step Usage Guide:**
 
     1) Hassle-free Password Hashing:
 
@@ -34,14 +34,14 @@ Step-by-Step Usage Guide:
         v) Save the comprehensive results, encompassing both target hashes and cracked passwords, to a text file for thorough
            record-keeping.
 
-Why Choose HashSmasher:
+**Why Choose HashSmasher:**
 
 HashSmasher is an indispensable tool for cybersecurity professionals, developers, and anyone seeking top-notch password management
 and hash recovery capabilities. Its user-friendly interface, robust features, and compatibility with text files ensure a seamless experience for
 all your password-related tasks.
 
 
-Stay Responsible:
+**Stay Responsible:**
 
 With great power comes great responsibility. Always ensure you have the proper authorization to use HashSmasher for hash cracking or
 password analysis. This tool should be used for educational purposes, security assessment, or to evaluate your own systems' vulnerabilities.
@@ -52,4 +52,8 @@ cybersecurity.
 
 Feel free to explore and contribute to the HashSmasher project, and happy hashing and cracking!!!
 
-Note: Due to character limitations, the full explanation of the code couldn't be provided here. Please refer to the code documentation and comments for a detailed explanation of each function and its usage.
+**Note:** Due to character limitations, the full explanation of the code couldn't be provided here. Please refer to the code documentation and comments for a detailed explanation of each function and its usage.
+
+---
+
+**Disclaimer:** HashSmasher is intended for legitimate and ethical use. Respect privacy and adhere to legal regulations when Hashing and Cracking Passwords. The creators and contributors of this tool hold no responsibility for any misuse or unauthorized activities.
